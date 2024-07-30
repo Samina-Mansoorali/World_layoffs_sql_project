@@ -16,7 +16,7 @@ Throughout this project, I aimed to answer the following questions:
 
 # Tools I Used
 
-**SQL:** To perform the analysis.
+**SQL:** The backbone of my analysis, allowing me to query the database and unearth critical analysis.
 
 **MySQL:** As the database management system.
 
