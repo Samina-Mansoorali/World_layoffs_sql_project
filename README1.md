@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Introduction
 
 This project is about the layoffs that happened around the world, primarily after the COVID-19 pandemic. Many companies across various countries, especially in India, had to lay off employees. Using SQL, I analyzed the data to understand the extent and distribution of these layoffs. The main focus of this project was on India, although global trends were also considered.
@@ -228,6 +228,4 @@ This project provided valuable insights into the layoff trends during and after 
 **Regional Focus:** In India, both multinational and local companies across various sectors had to downsize, reflecting the broader economic distress.
 
 The findings from this project can help understand the impact of the pandemic on employment and guide future workforce planning and strategies. Leveraging these insights can aid in building more resilient business models and preparing for potential future disruptions.
-=======
 
->>>>>>> c8212fc9cdb8ece2c08a78d83577655d9e2bcfc6
